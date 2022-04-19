@@ -1,6 +1,6 @@
 # Taller de Java 
 El taller fue resuelto en el lenguaje de progracion java, se utilizo como entorno de desarrollo Netbeans IDE 12.4.
-Cada taller esta desarrollado modo aplicacion, donde el usuario se le muestra un menu de opciones del punto del taller que desea que se ejecute. Cada taller funciona de manera indivivual.
+Cada taller esta desarrollado como una aplicacion que se ejecuta de manera independiente, donde al usuario se le muestra un menu de opciones del punto del taller que desea que se ejecute.
 
 #Contenido del Taller.
 
